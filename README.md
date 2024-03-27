@@ -1,7 +1,10 @@
 ![top-image](./banner.png)
 
-## Hello World!
-It's Alaa. I'm a passionate software engineer, whose journey from a curious kid fascinated by HTML in 2000 to a tech innovator today, has been anything but ordinary. Initially drawn to interior design, I found my true calling in the intricate world of software development. My background in design and architecture uniquely enriches my approach to creating elegant, robust web solutions. The turning point came in 2022, inspired by my wife's computer science studies at Marburg University. Diving into programming and computer architecture alongside her, my fascination with technology was rekindled, propelling me to embrace computer science with a fervor that grows daily. Today, I blend my creative roots and technological expertise to push the boundaries of web development. Constant learning and sharing knowledge are my driving forces. Supported by my wife and driven by a deep-seated curiosity, I navigate the tech world with a conviction that it’s never too late to chase your dreams. My journey is a testament to the transformative power of passion, resilience, and continuous growth in the ever-evolving landscape of technology.
+# Hello World, <span style="color: cyan; font-weight: bold;">it's </span>`<Alaa>` !
+
+Coming from a background rooted in creativity and constant engagement with computer-aided design (CAD) and 3D software, I graduated in Interior Architecture in 2009. Throughout my professional journey in this field, I consistently found myself immersed in problem-solving and enhancing user experiences through optimal software utilization. However, my passion for web programming was sparked in 2000 by HTML. Encouraged by my wife, who embarked on her Computer Science journey in 2022 and recognized my programming enthusiasm and strong computer skills, I enrolled in a part-time distance bachelor's degree program in Computer Science while maintaining full-time employment. Leveraging my expertise in 3D modeling and CAD, I delved into the realm of software engineering and development.<br/>
+Eager to learn and grow continuously, my primary focus now lies in Full-Stack or Frontend Web/App Software Engineering.<br/>
+My door is always open to offers involving technology and expertise, enriching my own.
 
 ## Tech-Stack
 
@@ -86,9 +89,9 @@ It's Alaa. I'm a passionate software engineer, whose journey from a curious kid 
 </div>
 
 
-<a href="https://mindqalam.netlify.app/" target="_blank">Watch the Demo Video here</a>
+<a href="https://www.youtube.com/watch?v=1KO137kId6U" target="_blank" rel="noopener noreferrer">Watch the Demo Video here</a>
 
-<a href="https://mindqalam.netlify.app/" target="_blank">Visit WebApp Demo here</a>
+<a href="https://mindqalam.netlify.app/" target="_blank" rel="noopener noreferrer">Visit WebApp Demo here</a>
 
 ##
 
@@ -107,11 +110,11 @@ It's Alaa. I'm a passionate software engineer, whose journey from a curious kid 
 
 **Technologies Used:**
 
-🟢 React 🟢 Next.js 🟢 JavaScript 🟢 Shadcn/ui 🟢 React Icons
+Frontend: 🟢 React 🟢 Next.js 🟢 JavaScript 🟢 Shadcn/ui 🟢 React Icons
 
-🟡 MapMaker 🟡 Clerk 🟡 Cloudinary 🟡 Jest 🟡 MongoDB 🟡 Mongoose 🟡 Socket.io 
+Backend: 🟡 MapMaker 🟡 Clerk 🟡 Cloudinary 🟡 Jest 🟡 MongoDB 🟡 Mongoose 🟡 Socket.io 
 
-🔵 Figma 🔵 Photoshop 🔵 ExcaliDraw
+UI/UX Design: 🔵 Figma 🔵 Photoshop 🔵 ExcaliDraw
 
 <div class="screenshots">
   <img class="screenshots" src="./cado_ss1.png" alt="Screenshot 1" style="width: auto; height: 250px;"/>
