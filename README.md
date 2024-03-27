@@ -57,14 +57,44 @@ It's Alaa. I'm a passionate software engineer, whose journey from a curious kid 
 |---|---|---|---|
 | Git | GitHub | GitLab | REST APIs |
 
-
 </div>
+
+##
 
 ## Projects
 
+### MindQalam
+
+<img src="./mindQalamLogo.png" alt="Project Icon" style="width:75px; height: 75px; border-radius: 20px;">
+
+**Project Description:** Digital advent calendar allowing personalized message sharing for an inclusive holiday experience.
+
+**My Contribution:**
+- Solely conceptualized, implemented, and designed the project.
+- Led Accessibility Enhancements: Implemented comprehensive accessibility features, making the calendar enjoyable for users of all abilities.
+- Dynamic Accessibility via React Next.js: Leveraged JSX in React Next.js for adaptive accessibility information, ensuring an intuitive user experience.
+- Authored Comprehensive Documentation: Created detailed documentation to guide future development and enhance project continuity.
+
+**Technologies Used:**
+
+🟢 React 🟢 JavaScript 🟢 CSS 🟢 SASS 🟢 Chat.js
+
+<div class="screenshots">
+  <img src="./mindqalam_ss1.png" alt="Screenshot 1" style="width: auto; height: 250px;">
+  <img src="./mindqalam_ss2.png" alt="Screenshot 2" style="width: auto; height: 250px;">
+  <img src="./mindqalam_ss3.png" alt="Screenshot 3" style="width: auto; height: 250px;">
+</div>
+
+
+<a href="https://mindqalam.netlify.app/" target="_blank">Watch the Demo Video here</a>
+
+<a href="https://mindqalam.netlify.app/" target="_blank">Visit WebApp Demo here</a>
+
+##
+
 ### CADO
 
-![Project Icon](./CADO_logo.png)
+<img src="./CADO_logo.png" alt="Project Icon" style="width:75px; height: 75px; border-radius: 20px;">
 
 **Project Description:** CADO is a pioneering application designed to connect pet owners with nearby pet sitters.
 
@@ -75,21 +105,20 @@ It's Alaa. I'm a passionate software engineer, whose journey from a curious kid 
 - Developed an advanced technological framework combining Next.js and TypeScript to ensure rigorous type handling, integrated with WebSockets via Socket.io for real-time communication, and employed Clerk for secure authentication and user management.
 - Incorporated MapMaker and Cloudinary solutions for efficient mapping, photo, and video sharing capabilities, enhancing the interactive experience between pet owners and sitters.
 
-**Technologies Used:** React, JavaScript, CSS, Chat.js
+**Technologies Used:**
 
-### MindQalam
+🟢 React 🟢 Next.js 🟢 JavaScript 🟢 Shadcn/ui 🟢 React Icons
 
-![Project Icon](./mindQalamLogo.png)
+🟡 MapMaker 🟡 Clerk 🟡 Cloudinary 🟡 Jest 🟡 MongoDB 🟡 Mongoose 🟡 Socket.io 
 
-**Project Description:** Digital advent calendar allowing personalized message sharing for an inclusive holiday experience.
+🔵 Figma 🔵 Photoshop 🔵 ExcaliDraw
 
-**My Contribution:**
-- Solely conceptualized, implemented, and designed the project.
-- Led Accessibility Enhancements: Implemented comprehensive accessibility features, making the calendar enjoyable for users of all abilities.
-- Dynamic Accessibility via React Next.js: Leveraged JSX in React Next.js for adaptive accessibility information, ensuring an intuitive user experience.
-- Authored Comprehensive Documentation: Created detailed documentation to guide future development and enhance project continuity.
-
-**Technologies Used:** React, Next.js, JavaScript, Shadcn/ui, React Icons, MapMaker, Clerk, Cloudinary, Jest, MongoDB, Mongoose, Figma, Socket.io, Photoshop, ExcaliDraw
+<div class="screenshots">
+  <img class="screenshots" src="./cado_ss1.png" alt="Screenshot 1" style="width: auto; height: 250px;"/>
+  <img class="screenshots" src="./cado_ss2.png" alt="Screenshot 2" style="width: auto; height: 250px;"/>
+</div>
+        
+<a href="https://www.youtube.com/watch?v=RXkWKWYjr74" target="_blank">Watch the Demo Video here</a>
 
 ##
 ## GitHub Stats
