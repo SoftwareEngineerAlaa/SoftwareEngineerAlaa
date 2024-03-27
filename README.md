@@ -1,32 +1,101 @@
-<h1 align="center">Hi 👋, I'm Alaa</h1>
-<h3 align="center">I'm a passionate software engineer, whose journey from a curious kid fascinated by HTML in 2000 to a tech innovator today, has been anything but ordinary. Initially drawn to interior design, I found my true calling in the intricate world of software development. My background in design and architecture uniquely enriches my approach to creating elegant, robust web solutions. The turning point came in 2022, inspired by my wife's computer science studies at Marburg University. Diving into programming and computer architecture alongside her, my fascination with technology was rekindled, propelling me to embrace computer science with a fervor that grows daily. Today, I blend my creative roots and technological expertise to push the boundaries of web development. Constant learning and sharing knowledge are my driving forces. Supported by my wife and driven by a deep-seated curiosity, I navigate the tech world with a conviction that it’s never too late to chase your dreams. My journey is a testament to the transformative power of passion, resilience, and continuous growth in the ever-evolving landscape of technology.</h3>
+![top-image](./banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=softwareengineeralaa&label=Profile%20views&color=0e75b6&style=flat" alt="softwareengineeralaa" /> </p>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softwareengineeralaa" alt="softwareengineeralaa" /></a> </p>
--->
-- 🔭 I’m currently working on ... **developing advanced web applications using React, Next.js, and TailwindCSS, as well as Testing and focusing on responsive design and user experience.**
+## Hello World!
+It's Alaa. I'm a passionate software engineer, whose journey from a curious kid fascinated by HTML in 2000 to a tech innovator today, has been anything but ordinary. Initially drawn to interior design, I found my true calling in the intricate world of software development. My background in design and architecture uniquely enriches my approach to creating elegant, robust web solutions. The turning point came in 2022, inspired by my wife's computer science studies at Marburg University. Diving into programming and computer architecture alongside her, my fascination with technology was rekindled, propelling me to embrace computer science with a fervor that grows daily. Today, I blend my creative roots and technological expertise to push the boundaries of web development. Constant learning and sharing knowledge are my driving forces. Supported by my wife and driven by a deep-seated curiosity, I navigate the tech world with a conviction that it’s never too late to chase your dreams. My journey is a testament to the transformative power of passion, resilience, and continuous growth in the ever-evolving landscape of technology.
 
-- 🌱 I’m currently enhancing **problem solving and algorithm and data structure.**
+## Tech-Stack
 
-- 👯 I’m looking to collaborate on **Web app projects that aim to make a difference in the community. I'm passionate about initiatives that leverage technology for social good, whether it's through educational tools, environmental conservation apps, or platforms that facilitate community support and engagement.**
+### Frontend
 
-- 💬 Ask me about **anything related to web design and development, transitioning into tech from a different background, or managing learning while working full-time.**
+<div align="left">
+  
+| <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40"> | <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40"> | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40"> | <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40"> | <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40"> | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40"> | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40"> | <img src="https://cdn.simpleicons.org/jest/C21325" width="40" height="40"> | <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40"> | <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="40" height="40"> |
+|---|---|---|---|---|---|---|---|---|---|
+| HTML5 | CSS3 | JavaScript | React | Next.js | Tailwind CSS | TypeScript | Jest | Sass | ShadCN |
 
-- 📫 How to reach me **You can email me at ala.tahhan.cw@gmail.com, connect with me on LinkedIn at linkedin.com/in/alaa-tahhan/, or follow me on GitHub at github.com/SoftwareEngineerAlaa.**
 
-- 📄 Know about my experiences [alaatahhan.netlify.app](alaatahhan.netlify.app)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alaa-tahhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa-tahhan" height="30" width="40" /></a>
-</p>
+### Backend
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="left">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=softwareengineeralaa&show_icons=true&locale=en&layout=compact" alt="softwareengineeralaa" /></p>
+| <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40"> | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40"> | <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" width="40" height="40"> | <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png" width="40" height="40"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi41CjSurzdGmUzSPwN97D77L2AWBfzApazBG-xG0FkNAyl7f03jNj1r7hzr4g9DExAN0&usqp=CAU" width="40" height="40"> | <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="40" height="40"> |
+|---|---|---|---|---|---|---|
+| Node.js | MongoDB | Mongoose | Express | Koa | Clerk | Chart.js |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=softwareengineeralaa&show_icons=true&locale=en" alt="softwareengineeralaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softwareengineeralaa&" alt="softwareengineeralaa" /></p>
+</div>
+
+### Design and UX Tools
+
+<div align="left">
+
+| <img src="https://skillicons.dev/icons?i=ps" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"> | <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4faa9d4c43f2c79f9bee4a0ac10bd9ec/excalidraw.png" width="40" height="40"> |
+|---|---|---|
+| Adobe Photoshop | Figma | ExcaliDraw |
+
+
+</div>
+
+### Programming Languages
+
+<div align="left">
+
+| <img src="https://skillicons.dev/icons?i=js" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=java" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=py" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"> |
+|---|---|---|---|
+| JavaScript | Java | Python | TypeScript |
+
+
+</div>
+
+### Other Techs
+
+<div align="left">
+
+| <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"> | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9mJjZW07YRbcDqZKCxDoXDXeEieDztjLNGSKMCoAXQ&s" width="40" height="40"> | <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="40" height="40"> |
+|---|---|---|---|
+| Git | GitHub | GitLab | REST APIs |
+
+
+</div>
+
+## Projects
+
+### CADO
+
+![Project Icon](./CADO_logo.png)
+
+**Project Description:** CADO is a pioneering application designed to connect pet owners with nearby pet sitters.
+
+**My Contribution:**
+- Collaborated within a 5-member team, employing agile methodologies and best practices to enhance project efficiency and deliverables.
+- Led the design and wireframing of user interface and experience (UI/UX), alongside data flow schematics, utilizing Figma and ExcaliDraw to ensure intuitive and user-friendly application navigation.
+- Architected and implemented a robust data model, along with controllers and endpoints, leveraging MongoDB and Mongoose to establish a single source of truth and facilitate seamless data management.
+- Developed an advanced technological framework combining Next.js and TypeScript to ensure rigorous type handling, integrated with WebSockets via Socket.io for real-time communication, and employed Clerk for secure authentication and user management.
+- Incorporated MapMaker and Cloudinary solutions for efficient mapping, photo, and video sharing capabilities, enhancing the interactive experience between pet owners and sitters.
+
+**Technologies Used:** React, JavaScript, CSS, Chat.js
+
+### MindQalam
+
+![Project Icon](./mindQalamLogo.png)
+
+**Project Description:** Digital advent calendar allowing personalized message sharing for an inclusive holiday experience.
+
+**My Contribution:**
+- Solely conceptualized, implemented, and designed the project.
+- Led Accessibility Enhancements: Implemented comprehensive accessibility features, making the calendar enjoyable for users of all abilities.
+- Dynamic Accessibility via React Next.js: Leveraged JSX in React Next.js for adaptive accessibility information, ensuring an intuitive user experience.
+- Authored Comprehensive Documentation: Created detailed documentation to guide future development and enhance project continuity.
+
+**Technologies Used:** React, Next.js, JavaScript, Shadcn/ui, React Icons, MapMaker, Clerk, Cloudinary, Jest, MongoDB, Mongoose, Figma, Socket.io, Photoshop, ExcaliDraw
+
+##
+## GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoftwareEngineerAlaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" title="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoftwareEngineerAlaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" title="Top Languages" />
+</div>
+
