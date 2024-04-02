@@ -66,7 +66,7 @@ My door is always open to offers involving technology and expertise, enriching m
 
 ## Projects
 
-### MindQalam
+### MindQalam (Personal Project)
 
 <img src="./mindQalamLogo.png" alt="Project Icon" style="width:75px; height: 75px; border-radius: 20px;">
 
@@ -121,7 +121,7 @@ UI/UX Design: 🔵 Figma 🔵 Photoshop 🔵 ExcaliDraw
   <img class="screenshots" src="./cado_ss2.png" alt="Screenshot 2" style="width: auto; height: 250px;"/>
 </div>
         
-<a href="https://www.youtube.com/watch?v=RXkWKWYjr74" target="_blank">Watch the Demo Video here</a>
+<!--<a href="https://www.youtube.com/watch?v=RXkWKWYjr74" target="_blank">Watch the Demo Video here</a>-->
 
 ##
 ## GitHub Stats
