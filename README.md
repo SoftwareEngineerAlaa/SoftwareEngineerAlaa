@@ -45,9 +45,9 @@ My door is always open to offers involving technology and expertise, enriching m
 
 <div align="left">
 
-| <img src="https://skillicons.dev/icons?i=js" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=java" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=py" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"> |
-|---|---|---|---|
-| JavaScript | Java | Python | TypeScript |
+| <img src="https://skillicons.dev/icons?i=js" width="40" height="40"> | <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" width="40" height="40"> <span> + </span> <img src="https://static-00.iconduck.com/assets.00/unity-icon-249x256-ry4n8dty.png" width="40" height="40"> | <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png?f=webp" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=py" width="40" height="40"> | <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"> |
+|---|---|---|---|---|
+| JavaScript | C# (learning alongside Unity) | Java | Python | TypeScript |
 
 
 </div>
@@ -124,6 +124,58 @@ UI/UX Design: 🔵 Figma 🔵 Photoshop 🔵 ExcaliDraw
 <a href="https://www.youtube.com/watch?v=RXkWKWYjr74" target="_blank">Watch the Demo Video here</a>
 
 ##
+
+### Event Keeper
+
+![Event Keeper Banner](Readme-Assets/AppUI.png)
+
+An event management application that simplifies adding, viewing, and deleting events.
+
+#### Features
+- Event management
+- Real-time updates
+- Automatic event sorting
+
+**Technologies Used:**
+Frontend: 🟢 React 🟢 JavaScript 🟢 CSS
+Backend: 🟡 Node.js 🟡 Express 🟡 MongoDB
+
+##
+
+### Weather App "mini"
+
+![Weather App Banner](src/assets/WeatherAppScreenshot.png)
+
+A weather app that allows users to check the current weather in their city, including temperature extremes.
+
+#### Features
+- Live weather data
+- Dynamic icons
+- Temperature conversion
+- Responsive design
+
+**Technologies Used:**
+🟢 React 🟢 CSS
+
+##
+
+### Phone Book by Alaa Tahhan
+
+![Phone Book Banner](img/PhoneBookScreenshot.png)
+
+A dynamic Phone Book application for managing contacts with add, edit, and delete functionalities.
+
+#### Features
+- Contact management
+- Search functionality
+- Dynamic updates
+
+**Technologies Used:**
+🟢 HTML5 🟢 CSS3 🟢 jQuery 🟢 JavaScript
+
+##
+
+
 ## GitHub Stats
 
 <div align="left">
